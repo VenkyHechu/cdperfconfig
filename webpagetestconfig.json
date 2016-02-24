@@ -1,0 +1,36 @@
+{ 
+   "webpagetest":
+   {
+	 "url": "https://www-qa.adpedge.com/",
+	 "location" : "Dulles:Chrome",
+	 "runs" : 1,
+	 "api" : "A.ac0045dbfaed1bf927b7808b619c65e9"
+  },
+  "promotion_gates":
+  {        
+	"first_view":
+	{
+	  "speed_index": 1400,
+	  "first_paint": 1200,
+	  "first_byte": 300,
+	  "fully_loaded": 1900,
+	  "visual_complete": 2000,
+	  "start_render": 1700,
+	  "last_visual_change": 1700,
+	  "title_time": 1000,
+	  "page_size": 25000
+	},
+	"repeat_view":
+	{
+	  "speed_index": 300,
+	  "first_paint": 1200,
+	  "first_byte": 300,
+	  "fully_loaded": 1900,
+	  "visual_complete": 2000,
+	  "start_render": 1700,
+	  "last_visual_change": 1700,
+	  "title_time": 1000,
+	  "page_size": 25000
+	}
+  }
+}

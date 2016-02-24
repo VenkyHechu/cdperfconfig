@@ -1,0 +1,27 @@
+{
+  "blazemeter":
+  {
+    "api": "V9x1JnZGAIOqJIMGVMUP",
+    "test_id": "5161239"
+  },
+  "promotion_gates":
+  {             
+	"response_time_avg": 500,
+	"response_time_max": 2000,
+	"response_time_stdev": 100,
+	"response_time_tp90": 800,
+	"response_time_tp95": 800,
+	"response_time_tp99": 800,
+	"transaction_rate": 1,
+	"latency_max": 40,
+	"latency_avg": 40,
+	"latency_stdev": 40,
+	"bandwidth_avg": 800000,
+	"speed_index": 300,
+	"page_speed": 1200,
+	"first_byte": 300,
+	"fully_loaded": 1900,
+	"start_render": 1700,
+	"page_size": 25000
+  }
+}
