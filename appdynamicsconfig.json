@@ -1,0 +1,15 @@
+{
+
+  "appdynamics":
+  {
+    "username": "cdkpeapi@adppe",
+    "password": "f1sxy54q72c",
+    "application_name": "ord.leadservices",
+    "load_test_length_min": 60
+  },
+  "promotion_gates":
+  {        
+	"critical": true,
+	"warning": true
+  }
+}
